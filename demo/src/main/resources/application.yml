@@ -1,0 +1,7 @@
+server:
+  port: 8089
+person:
+  name: 王水
+  sex: 男
+  friend: {name: 李四,sex: 女}
+  friends: [{name: 王五,sex: 女},{name: 六六,sex: 女}]
